@@ -1,0 +1,1 @@
+document.getElementById('ulc').onclick = fuction();
